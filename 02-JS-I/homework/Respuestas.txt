@@ -1,0 +1,7 @@
+1.Variables: las variables son cajas en donde guardas algo de valor para despues usarlas.
+2.Strings: son frases que uno dice.
+3.Funciones: son cajas de herramientas donde cada caja tiene su herramienta por lo tanto cada herramienta realiza una accion diferente a las otras. 
+Argumentos: es lo que vamos a arreglar con esa herramienta.
+return: es lo nuevo que nos devuelve despues de haberlo arreglado.
+4.Declaraciones: son acciones que hacen que la herramienta Funciones
+if: es una accion que respecto al objeto que vamos a arreglar elige la mejor forma de arreglarlo.
