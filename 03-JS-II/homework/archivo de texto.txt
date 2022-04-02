@@ -1,0 +1,4 @@
+1. for: Esto se usa para repetir varias veces una accion hasta que quieras
+2. and: es para sumar algo a otra cosa
+3. or: es para decidirte entre una cosa y la otra
+4. !: es para indicar lo contrario a lo que queres
