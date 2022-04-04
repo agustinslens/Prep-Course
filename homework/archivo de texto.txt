@@ -1,1 +1,1 @@
-1. Array: son muchas cajas juntas donde en cada caja se guarda algo distinto y tiene su orden.
+1. Array: son muchas cajas juntas donde en cada  caja se guarda algo distinto y tiene su orden.
