@@ -1,0 +1,6 @@
+1.objetos: los objetos son cajas con herramientas las cuales tienen propiedades
+2.propiedades: son las caracteristicas de las herramientas
+3.metodos: son acciones que pueden tener las cajas
+4.for ..in: es una forma de ver todas las herramientas dentro de la cajas
+5.notacion puntos vs notacion corchetes: se refiere a lo mismo pero la forma de escribirlo es diferente. asi se puede llamar
+a alguna propiedad de las cajas
