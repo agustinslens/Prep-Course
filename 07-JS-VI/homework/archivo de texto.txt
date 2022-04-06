@@ -1,0 +1,1 @@
+1. callbacks: es la opcion de pasar una funcion como parametro a otra funcion
