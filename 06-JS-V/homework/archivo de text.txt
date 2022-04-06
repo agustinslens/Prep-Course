@@ -1,0 +1,2 @@
+1. prototype: es la forma a la que nos podemos referir a la herramienta superior.
+2. constructores: es el modelo con todas las caracteristicas de las herramientas.
