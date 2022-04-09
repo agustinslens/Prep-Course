@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(24, 24, 87);
+}
+#index{
+    
+    width: 400px;
+
+}
+#index2{
+    align-content: center;
+    align-self: center;
+    width: 400px;
+
+}
+
+#thirDiv{
+    margin: 0 auto;
+    height: 600px;
+    width: 500px;
+    background-color: beige;
+    padding: 50px;
+    border-style: dotted;
+    border-width: 10px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url("https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2021/05/milanesa-de-res-receta.jpg") ;
+    background-position: center;
+    width: 500px;
+}
+.divClass{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:rgb(218, 8, 53);
+
+}
+.divClass2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: chartreuse;
+}

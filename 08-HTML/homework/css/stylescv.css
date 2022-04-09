@@ -1,0 +1,34 @@
+*{
+
+
+width: fit-content;
+
+}
+body{
+    background-image: url("https://static.wikia.nocookie.net/doblaje/images/6/6a/Saint_Seiya_Soul_of_Gold_Poster.png/revision/latest/scale-to-width-down/333?cb=20150410043610&path-prefix=es");
+background-repeat: no-repeat;
+background-size: cover;
+}
+img{
+    width: 200px;
+    height: auto;
+    
+}
+.exp{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: -448px;
+    
+}
+.exp ul{
+
+    text-align: center;
+
+}
+
+#Hobbies{
+    margin-top: -150px;
+}
